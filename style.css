@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+h1{
+    background-color: brown;    
+}
+#text1{
+    background-color: aqua;
+}
+h2{
+    background-color: blueviolet;
+}
+#text2{
+    background-color: blue;
+}
+ol{
+    background-color: #52f75a;
+    display: list-item;
+}
